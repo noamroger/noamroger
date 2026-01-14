@@ -1,5 +1,5 @@
 # 💫 A propos :
-Salut, c'est Noam j'ai 19 ans (si cette bio est à jour 👀) et je code depuis trèssssss longtemps mais beaucoup en auto-didacte !<br>J'ai commencé a faire du nodejs aux alentours de 2019, et j'ai progressé pour avoir un niveau très correct sans etudes, maintenant c'est une base pour apprendre d'autres langages comme le C que j'ai appris assez vite avec les cours et cette base solide de nodejs<br>Je veux maintenant faire un Master dans du développement web et compte me spécialiser en backend.<br><br>🎓Etudiant à l'université du Mans (L1 Informatique)<br>🌱Je commence à apprendre le TypeScript de mon coté<br>📬Contact : [rog.noam@gmail.com](mailto:rog.noam@gmail.com)
+Salut, c'est Noam j'ai 19 ans (si cette bio est à jour 👀) et je code depuis trèssssss longtemps mais beaucoup en auto-didacte !<br>J'ai commencé a faire du nodejs aux alentours de 2019, et j'ai progressé pour avoir un niveau très correct sans etudes, maintenant c'est une base pour apprendre d'autres langages comme le C que j'ai appris assez vite avec les cours et cette base solide de nodejs<br>Je veux maintenant faire un Master dans du développement web et compte me spécialiser en backend.<br><br>🎓Etudiant à l'université du Mans (L2 Informatique)<br>🌱Je commence à apprendre le TypeScript de mon coté<br>📬Contact : [rog.noam@gmail.com](mailto:rog.noam@gmail.com)
 
 
 ## 🌐 Reseaux :
