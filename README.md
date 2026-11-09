@@ -1,5 +1,5 @@
 # 💫 About Me:
-Étudiant en L3 Informatique au Mans, je développe en autodidacte depuis 2019. Je viens du backend (Node.js, TypeScript, C) et je m'oriente aujourd'hui vers le DevOps : je conteneurise mes projets avec Docker, j'automatise leurs déploiements et j'apprends Kubernetes. Je vise un Master spécialisé en ingénierie logicielle et en infrastructure.
+Étudiant en L3 Informatique au Mans, je développe en autodidacte depuis 2019. Je viens du backend (Node.js, TypeScript, C) et je m'oriente aujourd'hui vers le DevOps : je conteneurise mes projets avec Docker, j'automatise leurs déploiements et j'apprends Kubernetes. Je vise un Master spécialisé en ingénierie DevOps / Cloud.
 
 - Technologies : Node.js · TypeScript · C · Linux · Docker · CI/CD
 - En apprentissage : Kubernetes
