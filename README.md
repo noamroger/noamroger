@@ -1,5 +1,12 @@
 # 💫 About Me:
-Étudiant en **L3 Informatique** au Mans et développeur backend autodidacte depuis 2019. Fort d'une expérience poussée sur l'écosystème **Node.js / TypeScript** et la programmation système (**C**), je m'oriente vers un Master avec une forte spécialisation en ingénierie logicielle backend.<br><br>- **Technologies :** Node.js · TypeScript · Express · C · Linux<br>- En recherche d'une **alternance pour un Master** à la rentrée 2027<br>- [contact@noamroger.fr](mailto:contact@noamroger.fr)
+Étudiant en L3 Informatique au Mans, je développe en autodidacte depuis 2019. Je viens du backend (Node.js, TypeScript, C) et je m'oriente aujourd'hui vers le DevOps : je conteneurise mes projets avec Docker, j'automatise leurs déploiements et j'apprends Kubernetes. Je vise un Master spécialisé en ingénierie logicielle et en infrastructure.
+
+- Technologies : Node.js · TypeScript · C · Linux · Docker · CI/CD
+- En apprentissage : Kubernetes
+- En recherche d'une alternance pour un Master à la rentrée 2027
+- [contact@noamroger.fr](mailto:contact@noamroger.fr)
+
+Dis-moi si tu veux un ton plus court ou plus technique.
 
 
 ## 🌐 Socials:
